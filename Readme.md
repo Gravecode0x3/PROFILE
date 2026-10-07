@@ -1,6 +1,6 @@
 
 <div align="center">
-  <h1>GRAVE 💀</h1>
+  <h1>GRAVE </h1>
   <p>Roblox Developer • Building & Scripting Specialist</p>
   
   ![Indonesia](https://img.shields.io/badge/From-Indonesia-red?style=flat)
